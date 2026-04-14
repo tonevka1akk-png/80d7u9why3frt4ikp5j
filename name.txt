@@ -1,1 +1,4 @@
+#profile-title: FROZYY_VPN
+#announce: #announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️.
+#profile-update-interval: 1
 vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@82.25.190.156:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&sid=aabbccdd&sni=www.google.com#%D0%A5%D1%83%D0%B9%20%C2%B7%20Home
